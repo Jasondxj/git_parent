@@ -1,0 +1,3 @@
+[submodule "mymodel"]
+	path = mymodel
+	url = git@github.com:Jasondxj/git_child.git
